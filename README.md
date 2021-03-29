@@ -1,5 +1,5 @@
 # connecting-java-mysql
-Connecting Java with MySQL BDD. Using Maven for project dependencies, Spring JPA Repositories for MVC abstraction 
+Connecting Java with MySQL DB. Using Maven for project dependencies, Spring JPA Repositories for MVC abstraction 
 <br/>
 <br/>
 This demo/test is meant to display the abstractions possible while connecting a Java application to a database (here MySQL) 
