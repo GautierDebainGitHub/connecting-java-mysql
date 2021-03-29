@@ -18,7 +18,7 @@ $ curl localhost:8080/demoJulien/add -d closePrice=6000 -d composition=40 -d ind
 
 - Use command to fetch all the index_composition objects from the database
 
-$ curl 'localhost:8080/demoJulien/all'
+$ curl localhost:8080/demoJulien/all
 <br/>
 <br/>
 <br/>
